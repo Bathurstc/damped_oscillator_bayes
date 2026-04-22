@@ -1,0 +1,16 @@
+label,noise_type,level_param,level_value,empirical_snr_db
+gaussian_s0.05,gaussian,sigma,0.05,19.437011499270728
+gaussian_s0.15,gaussian,sigma,0.15,9.68273278141553
+gaussian_s0.30,gaussian,sigma,0.3,3.2674866977935766
+gaussian_s0.60,gaussian,sigma,0.6,-2.408212936498594
+pink_s0.05,pink,sigma,0.05,19.202345936558224
+pink_s0.15,pink,sigma,0.15,9.659920842164974
+pink_s0.30,pink,sigma,0.3,3.6393209288853505
+pink_s0.60,pink,sigma,0.6,-2.381278984394273
+hetero_f0.05,heteroscedastic,sigma_frac,0.05,21.60134812061163
+hetero_f0.10,heteroscedastic,sigma_frac,0.1,18.013406710454657
+hetero_f0.20,heteroscedastic,sigma_frac,0.2,12.456901232957504
+hetero_f0.40,heteroscedastic,sigma_frac,0.4,8.243908666553917
+ou_theta0.5,ornstein_uhlenbeck,theta,0.5,8.17667151123921
+ou_theta2.0,ornstein_uhlenbeck,theta,2.0,10.755903507145636
+ou_theta8.0,ornstein_uhlenbeck,theta,8.0,9.405085006503562
